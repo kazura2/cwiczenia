@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://www.mmarocks.pl/wp-content/uploads/2016/12/pudz.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    font-family: Courier New			
+}
+
+.tytul{
+    font-size: 30px;
+    color: red;
+    font-family: Courier New
+}
+
+.tekst{
+    width: 50%;
+    margin: auto;
+    border: 3px solid yellow;
+    font-family:  Courier New;
+    text-align: center;
+    font-size: 20px;
+    color: yellow;
+}
+
+.filmik{
+    border: 5px solid yellow;
+    margin: auto;
+    width: 425px;
+    height: 320px;
+}
+
+.logowanie{
+    margin: left;
+    text-align: center;
+    border: 3px solid yellow;
+    width: 240px;
+    height: 180px;
+    background-color: yellow;
+}
+
+.przycisk{
+    background-color: red; 
+    border: solid black;
+}
+
+.tekstfilmik{
+    width: 425px;
+    border: 5px solid yellow;
+}
